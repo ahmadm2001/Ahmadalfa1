@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "934516979773",
+    "firebase_url": "https://ahmadalfa1.firebaseio.com",
+    "project_id": "ahmadalfa1",
+    "storage_bucket": "ahmadalfa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934516979773:android:69ded266899f9b346ad254",
+        "android_client_info": {
+          "package_name": "com.example.ahmadalfa1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934516979773-u9thru0m9udj7voguo1lptvtmaajolr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahmadalfa1",
+            "certificate_hash": "163858117bcb3e7bead911a92a7a5f9d03cd745a"
+          }
+        },
+        {
+          "client_id": "934516979773-gkl3pqdjjlkjvcfutvavbi04l1kdnd73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlj5_heyaRFNpw6uO7Sk5fbd2Pp3IBCrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934516979773-gkl3pqdjjlkjvcfutvavbi04l1kdnd73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
